@@ -1,0 +1,7 @@
+# emacs-creatd files
+*~
+
+# Ignore the build directory
+build/
+
+.DS_Store
